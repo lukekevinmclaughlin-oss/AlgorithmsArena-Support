@@ -2,6 +2,10 @@
 
 Algorithms Arena is a native algorithms and data-structures learning app for iPhone, iPad, and Mac.
 
+## Website
+
+See the [Mac product page](https://www.macossoftware.com/algorithms-arena-interactive-algorithms-course/) for screenshots, features, system requirements and the direct download edition. For help, visit [IndepApps support](https://www.macossoftware.com/support/).
+
 ## Support
 
 If you need help with the app, purchases, progress, or accessibility, use the [support contact form](https://www.lukekevinmclaughlin.com/resume#request-cv). Please include “Algorithms Arena” in your message. Purchase refunds and subscription management are handled by Apple through your Apple Account.
